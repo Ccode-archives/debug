@@ -1,2 +1,2 @@
 # debug
-Debug lib for Ccode.(uninstallable through reppack)
+Debug lib for Ccode.(installable through reppack)
