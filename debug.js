@@ -1,6 +1,6 @@
-func platform() {
+function platform() {
     return process.platform;
 }
-func platformver() {
+function platformver() {
     return require("os").release();
 }
